@@ -1,0 +1,28 @@
+.title
+{
+    color: rgb(10, 39, 2);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.text
+{
+    background-color: lightcyan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main
+{
+    height:auto;
+    width:720px;
+
+}
+.subimages
+{
+    height: auto;
+    width: 400px;
+
+}
+.steps
+{
+    color:darkgreen;
+    background-color: darkgrey;
+}
